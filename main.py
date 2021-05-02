@@ -80,7 +80,6 @@ if upload_file is not None:
 
 
     st.write('何番目の文字からスタートしますか')
-    st.write(indices_char)
     start_index = st.number_input('', 0, len(indices_char),1)
 
 
