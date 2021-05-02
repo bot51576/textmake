@@ -1,3 +1,5 @@
 keras
 streamlit
 numpy
+tensorflow
+
